@@ -3,7 +3,7 @@
     height: 5em;
     border: 1px solid red;
     justify-content: center;
-    align-items: flex-start;
+    align-items: flex-end;
 }
 
 .boxes div {
